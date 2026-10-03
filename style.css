@@ -1,0 +1,12 @@
+    body{
+        font-family: Arial, sans-serif;
+        background: #757272;
+        color: #faf8f8;
+        text-align: center;
+        margin: 100;
+        padding: 200px;
+}
+    ::placeholder{
+        color: rgb(0, 0, 10);
+}
+    
