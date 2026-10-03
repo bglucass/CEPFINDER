@@ -1,12 +1,37 @@
+    header img{
+        max-width: 100px;
+    }
     body{
         font-family: Arial, sans-serif;
-        background: #757272;
-        color: #faf8f8;
+        background: #ffffff;
+        color: #777171;
         text-align: center;
         margin: 100;
-        padding: 200px;
-}
+        padding: 20px;
+    }
     ::placeholder{
-        color: rgb(0, 0, 10);
-}
-    
+        color: rgb(#777171);
+    }
+    h2{
+        color: #777171;
+    }
+    h3{
+        text-align: left;
+    }
+    h3 img{
+        max-width: 20px;
+    }
+    footer{
+        color: #777171;
+    }
+    button{
+        padding: 10px 20px;
+    margin-top: 20px;
+    background: #f5c803;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+        
+        
+    }

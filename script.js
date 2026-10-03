@@ -22,10 +22,7 @@
                 document.getElementById("rua").textContent = dados.logradouro;
                 document.getElementById("bairro").textContent = dados.bairro;
                 document.getElementById("estado").textContent = dados.estado;
-                if (dados.bairro = 0){
-                    alert("Error")
                 
-                }
-            
+
         });
 }
